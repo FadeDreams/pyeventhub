@@ -16,7 +16,7 @@ classifiers = [
 ]
 include = [
     "LICENSE",
-    "README.md"  # Ensure README.md is included here if it's part of your package
+    "README.md" 
 ]
 
 [tool.poetry.dependencies]
